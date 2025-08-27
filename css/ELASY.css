@@ -1676,6 +1676,7 @@ a {
     color: white;
     text-align: center;
     flex-basis: 50%;
+    max-width: 100%;
 }
 
 .discount-section .discount::before {
@@ -1912,6 +1913,7 @@ a {
     border-top: 1px solid #444;
     color: white;
 }
+
 .footer p.copy-right span {
     color: var(--main-color);
     font-weight: var(--font-weigth);
@@ -1921,4 +1923,4 @@ a {
 
 
 
-                                                         /* finsh */
+/* finsh */
